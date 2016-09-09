@@ -2,7 +2,7 @@
  * AutoPricer.java
  * 
  * Automates pricing for a t-shirt order given order size, various costs, and a chosen 
- * percentage mark-up. Assumes user input valid data.
+ * percentage mark-up. Assumes user enters valid data.
  * 
  * @author Peter Warren
  */
