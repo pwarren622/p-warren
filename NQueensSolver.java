@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Class that determines the solutions to the queens problem based on the number
  * of queens the user selects
- * @author Peter on 2/21/16
+ * @author Peter Warren on 2/21/16
  *
  */
 public class NQueensSolver {
